@@ -1,0 +1,12 @@
+C:\Users\can89\Desktop\190111013\library_automation\bin\Debug\library_automation.exe.config
+C:\Users\can89\Desktop\190111013\library_automation\bin\Debug\library_automation.exe
+C:\Users\can89\Desktop\190111013\library_automation\bin\Debug\library_automation.pdb
+C:\Users\can89\Desktop\190111013\library_automation\obj\Debug\library_automation.csproj.AssemblyReference.cache
+C:\Users\can89\Desktop\190111013\library_automation\obj\Debug\library_automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\can89\Desktop\190111013\library_automation\obj\Debug\library_automation.Form1.resources
+C:\Users\can89\Desktop\190111013\library_automation\obj\Debug\library_automation.Properties.Resources.resources
+C:\Users\can89\Desktop\190111013\library_automation\obj\Debug\library_automation.csproj.GenerateResource.cache
+C:\Users\can89\Desktop\190111013\library_automation\obj\Debug\library_automation.csproj.CoreCompileInputs.cache
+C:\Users\can89\Desktop\190111013\library_automation\obj\Debug\library_automation.exe
+C:\Users\can89\Desktop\190111013\library_automation\obj\Debug\library_automation.pdb
+C:\Users\can89\Desktop\190111013\library_automation\obj\Debug\library_automation.Form2.resources
